@@ -19,3 +19,7 @@ runs: --> permet de spécifier la commande à exécuter
 ## La première étape contient un paramètre ‘with’, a quoi sert-il ?
 
 with: --> permet de passer des paramètres à l'étape (dans ce cas c'est la version de python)
+
+## À quoi sert l’indicateur Quality Gate ?
+
+analyse le code source du projet et vérifie si il y a des erreurs ou des bugs (si le code est de bonne qualité)
